@@ -1,3 +1,7 @@
 #Random Color Generator by benj
 
-Just download the files, open index.html and click away to inspiration!
+If you just need color inspiration...
+* download (or clone) 
+* open index.html and click anywhere for a random color!
+
+hope you enjoy!
